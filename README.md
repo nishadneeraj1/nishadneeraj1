@@ -2,6 +2,7 @@
 <h1 align="center">Hi there! 👋 I'm Neeraj Nishad</h1>
 <h3 align="center">Passionate Data Scientist from India 🚀</h3>
 
+
 <!-- Profile Views Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishadneeraj1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
