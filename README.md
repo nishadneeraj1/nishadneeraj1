@@ -1,5 +1,6 @@
 
-<img align="center" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FFantasy-Boss&psig=AOvVaw1sLoARy9sS8IJLSaaqdZlp&ust=1696877102847000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiFm_2N54EDFQAAAAAdAAAAABAD">
+<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif
+">
 <!-- Header Section -->
 <h1 align="center">Hi there! 👋 I'm Neeraj Nishad</h1>
 <h3 align="center">Passionate Data Scientist from India 🚀</h3>
