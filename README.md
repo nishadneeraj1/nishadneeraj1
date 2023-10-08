@@ -103,4 +103,22 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   </a>
-  <span>&nbsp;&
+  <span>&nbsp;&nbsp;</span>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <!-- Add more icons for your preferred languages and tools -->
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishadneeraj1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishadneeraj1&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishadneeraj1&" alt="GitHub Streak" />
+</p>
